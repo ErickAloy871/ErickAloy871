@@ -25,6 +25,7 @@ Aspiring Software Engineer at **Universidad Técnica de Ambato (FISEI - UTA)**. 
 * **Cinema Website:** Building a modern UI with **Angular** and scalable components.
 * **Transportation Logistics Management:** Designing complex relational databases to track cooperatives and transport quality control.
 * **Optimization Algorithms:** Implementing methods like Simplex and North-West Corner for operations research problems.
+* * 📫 **Reach me at:** [loericklo98@gmail.com]
 
 ---
 
